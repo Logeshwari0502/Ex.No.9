@@ -1,6 +1,5 @@
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
-# Date: 26/05/2026
 # Reg. No: 212223060137(Logeshwari R)
 
 # Aim:
